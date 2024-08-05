@@ -1,0 +1,128 @@
+.heading-text{
+    color: red;
+    text-align: center;
+    margin-top: 50px;
+}
+.text-content{
+ margin-right: 20px;
+ margin-left: 20px;
+ text-align: center;
+ margin-top: 100px;
+ color: black;
+ 
+}
+
+.multi-img{
+    width: 600px;
+    height: auto;
+    margin: 20px 20px 20px 50px;
+}
+.about-container{
+    display: flex;
+    margin-top: 50px;
+    border-top: 2px solid #d9d9d9;
+ 
+ }
+
+
+ /* --------------------- */
+
+.second-container{
+        display: flex;
+        justify-content:space-around;
+}
+ .img{
+    width: 250px;
+    height: auto;
+    margin: 50px 20px 20px 50px;
+    
+ }
+
+ .text-head{
+    margin-top: 50px;
+    text-align: center;
+ }
+
+ .paragraph{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    
+ }
+ .second-container>.inner{
+   width: 400px;
+   height: auto;
+ }
+
+ /* --------------------- */
+ .third-container{
+   display: flex;
+   justify-content: center;
+}
+ 
+.content {
+   display: flex;
+   align-items: flex-start;  
+   gap: 20px;  
+   border-top: 2px solid #d9d9d9;
+   margin-top: 50px;
+ }
+
+ .paragraph-two {
+   width: 300px;
+   text-align: left;  
+   padding-top: 45px;
+ }
+  /* --------------------- */
+ .gym-wear{
+   display: flex;
+   justify-content: center;
+   
+ }
+ .gym-con{
+   text-align: center;
+   padding-bottom: 50px;
+   padding-top: 50px;
+ }
+
+ .gym-image{
+     padding-top: 20px;
+ }
+ /* --------------------- */
+
+ .blog{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+
+ }
+ 
+ .blog-text{
+text-align: center;
+ }
+ .blog-container{
+   padding-bottom: 50px;
+   padding-top: 20px;
+ }
+
+ /* ------------------- */
+
+ .Events-container{
+    display: flex;
+    justify-content: space-around;
+ }
+ .text-Events{
+   width: 500px;
+   height: auto;
+    
+ }
+ 
+ .Events-text{
+   text-align: center;
+   padding-top: 20px;
+   padding-bottom: 50px;
+ }
+
+ .Events{
+   padding-bottom: 50px;
+ }
